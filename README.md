@@ -1,6 +1,6 @@
-👋 Hi, I’m @klubxxl and my name is Daniel. I work in Droids on Roids as an Internship Flutter Developer. <br>
+👋 Hi, I’m @klubxxl and my name is Daniel. I work in Droids on Roids as an Flutter Developer. <br>
 👀 I'm fond of mobile applications. Furthermore, I am interested in general technology, sports and board games. <br>
-🧐 I learn about game development in my spare time. (unity/flutter and flame)
+🧐 I learn about game development in my spare time. (unity/flutter flame)
 
 <!---
 klubxxl/klubxxl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
